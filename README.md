@@ -1,6 +1,6 @@
 # Healthcare_Analysis
 
-# WASH Infrastructure Data Analysis Pipeline 🌍📊
+# WASH Infrastructure Data Analysis Pipeline 
 
 ## Project Overview
 This repository features a Python-based data processing and visualization pipeline designed to analyze global Water, Sanitation, and Hygiene (WASH) metrics. Using time-series data from the WHO/UNICEF Joint Monitoring Programme (2000–2022), the project tracks key public health trends, performs data reshaping, and generates publication-ready visualizations to highlight the real-world impacts of targeted public policy interventions.
